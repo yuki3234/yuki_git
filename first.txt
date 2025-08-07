@@ -1,2 +1,3 @@
 Git練習
 muzukasii
+・git add
